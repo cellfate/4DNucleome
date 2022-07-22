@@ -4,9 +4,6 @@
 
 First let’s set up the environment to run the simulations. The simulated system is complex and requires parallel computing. We can put the simulated code on the server for computing, or test a small demo on the local machine. First of all, download the repository as a zip file clicking the green button in the top right of this page to your local machine. 
 
-## **Environment setup**
-
-Let’s set up the environment to run the simulations. The simulated system is complex and requires parallel computing. We can put the simulated code on the server for computing, or test a small demo on the local machine. Here, we briefly introduce the steps of setting up the environment locally.
 
 ### **Download the scripts**
 
